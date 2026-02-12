@@ -1,0 +1,2 @@
+Описание теста
+print("HelloWorld")
